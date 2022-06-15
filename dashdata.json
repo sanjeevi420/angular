@@ -1,0 +1,29 @@
+[
+    {
+        "supplierName": "Spirit AeroSystems",
+        "supplierId": "123456789",
+        "LTC":"300"
+    },
+    {
+        "supplierName": "Precision Castparts Corp.",
+        "supplierId": "234567890",
+        "LTC":"300"
+
+    },
+    {
+        "supplierName": "Spirit AeroSystems",
+        "supplierId": "123456789",
+        "LTC":"300"
+
+    },
+    {
+        "supplierName": "Spirit AeroSystems",
+        "supplierId": "123456789",
+        "LTC":"300"
+    },
+    {
+        "supplierName": "Spirit AeroSystems",
+        "supplierId": "123456789",
+        "LTC":"300"
+    }
+]
