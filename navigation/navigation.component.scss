@@ -1,0 +1,591 @@
+.universal-nav {
+  height: 40px;
+  width: 1470px;
+  bottom: 550px;
+  }
+
+  .rectangle-copy {
+    bottom: 600px;
+    height: 40px;
+    width: 1470px;
+    background-color: #212A32;
+    padding-bottom: 1%;
+    position: fixed;
+  }
+
+    .supplier-management {
+    height: 36px !important;
+    width: 561px !important;
+    color: #FFFFFF;
+    font-family: "Noto Sans";
+    font-size: 20px;
+    font-weight: 300;
+    letter-spacing: 0;
+    line-height: 29px;
+    position: relative;
+    left: 100px;
+    bottom: 25px;
+  }
+  
+  .boeing-logo {
+    height: 48px;
+    width: 210px;
+  }
+
+  .rectangle {
+    height: 40px;
+    width: 1470px;
+    background: linear-gradient(135deg, #0033A1 0%, #009BDF 100%);
+    bottom: 670px;
+    position: fixed;
+  }
+
+  .apps-icon {
+    height: 21px;
+    width: 21px;
+    bottom: 11px;
+    position: relative;
+    padding-right: 60px;
+    padding-bottom: 6px;    
+  }
+
+  .group-1 {
+    height: 28.05px;
+    width: 40px;
+    position: relative;
+    left: 1200px;
+    top: 3px;
+  }
+
+  .four {
+    height: 2px;
+    width: 4px;
+    padding-left: 4.5px;
+    bottom: 6px;
+    position: relative;
+    color: #FFFFFF;
+    font-family: "Noto Sans";
+    font-size: 7px;
+    letter-spacing: 0;
+    line-height: 16px;
+    text-align: center;
+  }
+
+  .group-5 {
+    height: 12px;
+    width: 10px;
+    position: relative;
+    bottom: 15px;
+  }
+
+  .oval {
+    height: 12px;
+    width: 12px;
+    bottom: 27px;
+    left: 9px;
+    background-color: #E4002D;
+    border-radius: 50%
+  }
+  
+  .welcome-cherie {
+    left: 18px;
+    bottom: 22px;
+    height: 22px;
+    width: 200px;
+    color: #FFFFFF;
+    font-family: "Noto Sans";
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    line-height: 22px;
+    position: relative;
+  }
+
+  .navbar {
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .navbar a {
+    float: left;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .dropdown {
+    float: right;
+    overflow: hidden;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+
+  .dropbtn {
+    font-size: 16px;  
+    position: relative;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+  }
+
+  .dropdown:hover .dropdown-content {
+    position: fixed;
+    display: block;
+  }
+
+  .combined-shape {
+    top: 155px;
+    left:1060px;
+    position: relative;
+    height: 386.53px;
+    width: 390px;
+    background-color: #475F74;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.15);
+  }
+
+  .combined-shape:before{
+    content:"";
+   position:relative;
+   bottom: 30px;
+   left: 340px;
+   border-right:13px solid transparent;
+   border-left:13px solid transparent;
+   border-bottom:13px solid #475F74;
+  }
+
+  .dropdown-content {
+    float: left;
+    position: relative;
+    display: none;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    
+  }
+  
+  .dropdown-content a {
+    float: none;
+    text-decoration: none;
+    display: block;
+  }
+
+  ul {
+    list-style-type: none;
+    overflow: hidden;
+  }
+  
+  li {
+    display: inline-block;
+  }
+  .contract-data-tool {
+    top: 80px;
+    height: 38px;
+    width: 200px;
+    color: #FFFFFF;
+    font-family: "Noto Sans";
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1.75px;
+    line-height: 16px;
+    text-align: center;
+    position: relative;
+    right: 20px;
+  }
+
+  .dashboard {
+    height: 38px;
+    width: 134px;
+    color: #FFFFFF;
+    font-family: "Noto Sans";
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1.75px;
+    line-height: 16px;
+    position: relative;
+    left: 210px;
+    top:13px;
+  }
+
+  .access-management {
+    height: 38px;
+    width: 117px;
+    color: #3C3C3C;
+    font-family: "Noto Sans";
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1.75px;
+    line-height: 16px;
+    text-align: center;
+    position: relative;
+    top: 78px;
+    left:20px
+  }
+
+  .automation-tracking {
+    height: 38px;
+    width: 112px;
+    color: #3C3C3C;
+    font-family: "Noto Sans";
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1.75px;
+    line-height: 16px;
+    text-align: center;
+    position: relative;
+    left: 210px;
+    top:10px;
+  }
+
+  .contract-data-finder {
+    height: 38px;
+    width: 134px;
+    color: #3C3C3C;
+    font-family: "Noto Sans";
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 1.75px;
+    line-height: 16px;
+    text-align: center;
+    position: relative;
+    left: 110px;
+    top: 45px;
+  }
+  
+  .workbench{
+    height: 27px;
+    width: 156px;
+    color: #FFFFFF;
+    font-family: "Noto Sans";
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 0.3px;
+    line-height: 22px;
+    padding-left: 50px;
+    padding-top: 30px;
+  }
+  
+  table, th, td {
+    width: 100%;
+  }
+  
+  .workbench p {
+      color: #fff;
+      position: relative;
+      left: 50px;
+      font-size: 18px;
+      top: 35px;
+  }
+  .parts .mat-form-field {
+      width: 100%;
+  }
+  ::ng-deep .mat-form-field-infix {
+      font-size: 11px;
+    }
+  .search{
+    
+    position: relative;
+  }
+  .alert p,  .alertDiv p{
+  
+      color: #fff;
+      line-height: 25px;
+      margin: 20px;
+  }
+  .alert {
+      padding-top: 20px;
+      height: 27px;
+      width: 63px;
+      color: #FFFFFF;
+      font-family: "Noto Sans";
+      font-size: 20px;
+      font-weight: 600;
+      letter-spacing: 0.3px;
+      line-height: 22px;
+      left:60px;
+      top: -25px;
+      position: relative;  
+  }
+  
+  .rectangle-copy-3 {
+      height: 439px;
+      width: 700px;
+      border-radius: 10px;
+      background-color: #FFFFFF;
+      box-shadow: 0 -4px 6px 0 rgba(0,0,0,0.15);
+      bottom: 500px;
+  }
+
+  .move{
+    bottom: -150px;
+    left: 50px;
+    position: relative;
+  }
+  
+  .alerts-panel-alt {
+      height: 300px;
+      width: 650px;
+      border-radius: 10px;
+      background-color: #FFFFFF;
+      box-shadow: 0 -4px 6px 0 rgba(0,0,0,0.15);
+      position: relative;
+      left: 750px;
+      top: -470px;
+      border: #16242d;
+  }
+  
+  .rectangleal {
+      height: 93px;
+      width: 650px;
+      border-radius: 10px 10px 0 0;
+      background-color: #263746;
+    }
+  
+  .rectanglewor {
+      height: 93px;
+      width: 700px;
+      position: relative;
+      border-radius: 10px 10px 0 0;
+      background-color: #475F74;
+    }
+  
+    .supplier-name {
+      height: 23.58px;
+      width: 120px;
+      color: #37739E;
+      font-family: "Noto Sans";
+      font-size: 15px;
+      font-weight: bold;
+      letter-spacing: 0;
+      line-height: 17px;
+    }
+  
+    .supplier-id {
+      height: 23.58px;
+      width: 83px;
+      color: #37739E;
+      font-family: "Noto Sans";
+      font-size: 15px;
+      font-weight: bold;
+      letter-spacing: 0;
+      line-height: 17px;
+      position: relative;
+      right: 300px;
+    }
+  
+    .ltc-prioritized-part {
+      height: 23.58px;
+      width: 150px;
+      color: #37739E;
+      font-family: "Noto Sans";
+      font-size: 15px;
+      font-weight: bold;
+      letter-spacing: 0;
+      line-height: 17px;
+      left: -110px;
+      position: relative;
+    }
+  
+    .rectangle1 {
+      height: 60px;
+      width: 700px;
+      border-radius: 0 0 10px 10px;
+      background: linear-gradient(180deg, #EBEBEB 0%, #FFFFFF 100%);
+    }
+
+    .sup{
+      position: relative;
+      right: 300px;
+    }
+
+    .supal{
+      top:-55px;
+      left:40px;
+      position: relative;
+    }
+
+    .ltc{
+      position: relative;
+      right: 100px;
+    }
+
+    .wor{
+      width: 114%;
+    }
+
+    .als{
+      padding-top: -80px;
+      padding-left:-50px;
+      width:100.2%;
+      position: relative;
+    }
+
+    .als tr:nth-child(even){background-color: #f2f2f2;}
+    .als tr:hover {background-color: #ddd;}
+
+    .als th{
+      display: none;
+    }
+    .als td{
+      border: none;
+      top:-55px;
+      left: -2px;
+    }
+
+
+    .wor tr:nth-child(even){
+      background-color: #f2f2f2;}
+    .wor tr:hover {background-color: #ddd;}
+    .wor  th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: left;
+      position: absolute;
+    }
+
+    .wor th{
+      position: relative;
+      height: 100%;
+      border: none;
+    }
+    .wor td {
+      border: none;
+      padding: 8px;
+      position: relative;
+    }
+
+    .advanced-search {
+      height: 19px;
+      width: 200px;
+      color: #6C6C6C;
+      font-family: "Noto Sans";
+      font-size: 14px;
+      font-weight: 500;
+      letter-spacing: 0.65px;
+      line-height: 16px;
+      position: relative;
+      padding-top: 6px;
+      left:50px;
+    }
+
+    .group {
+      height: 27px;
+      width: 381px;
+    }
+
+    .parts .mat-form-field {
+      width: 100%!important;
+  }
+    ::ng-deep .mat-form-field-infix {
+      font-size: 11px;
+    }
+
+    .alert p,  .alertDiv p{
+
+      color: #fff;
+      line-height: 25px;
+      margin: 20px;
+  }
+
+  .name{
+    box-sizing: border-box;
+    height: 43px;
+    width: 180px;
+    border: 1px solid #E2E2E2;
+    border-radius: 2px;
+    background-color: #EEEEEE;
+  }
+
+  .code{
+    box-sizing: border-box;
+    height: 43px;
+    width: 180px;
+    border: 1px solid #E2E2E2;
+    border-radius: 2px;
+    background-color: #EEEEEE;
+    left: 200px;
+    bottom: 42px;
+  }
+
+  .bycode{
+    box-sizing: border-box;
+    height: 43px;
+    width: 180px;
+    border: 1px solid #E2E2E2;
+    border-radius: 2px;
+    background-color: #EEEEEE;
+    left:400px;
+    bottom:85px;
+  }
+
+  .part{
+    box-sizing: border-box;
+    height: 43px;
+    width: 300px;
+    border: 1px solid #E2E2E2;
+    border-radius: 2px;
+    background-color: #EEEEEE;
+    bottom: 127px;
+    left:600px;
+  }
+
+  .or {
+    height: 19px;
+    width: 41px;
+    color: #6C6C6C;
+    font-family: "Noto Sans";
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.65px;
+    line-height: 16px;
+    right: -325px;
+    bottom: 38px;
+    position: relative;
+  }
+
+  .list{
+    height: 40px;
+    width: 130px;
+    bottom: 170px;
+    left: 1000px;
+    background-color: #1F5B8E;
+  }
+
+  .upload-list {
+    height: 19px;
+    width: 96px;
+    color: #FFFFFF;
+    font-family: "Noto Sans";
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.65px;
+    line-height: 16px;
+  }
+
+  .sicon{
+    transform: scale(.75);
+    padding-right: 20px;
+  }
+
+  .space{
+    left:40px;
+    position: relative;
+  }
+
+  .def{
+    top:40px;
+    left:25px;
+    position: relative;
+    transform: scale(2);
+  }
+
+
+    
